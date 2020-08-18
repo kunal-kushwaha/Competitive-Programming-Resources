@@ -18,6 +18,7 @@
 - https://technicalbattle.blogspot.com/2020/05/best-blogs-on-codeforces-links-for-best.html
 - https://petr-mitrichev.blogspot.com
 - https://www.hackerearth.com/blog/developers/7-steps-to-improve-your-data-structure-and-algorithm-skills/
+- https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed
 
 ## Platforms to Practice: 
 - http://codeforces.com/contests
