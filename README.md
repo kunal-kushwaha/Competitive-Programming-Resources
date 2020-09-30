@@ -21,17 +21,17 @@
 - https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed
 
 ## Platforms to Practice: 
-- http://codeforces.com/contests
-- https://www.codechef.com
-- https://leetcode.com
-- https://atcoder.jp/contests/
-- https://www.topcoder.com
-- https://www.spoj.com/users/lebron/
-- https://www.hackerrank.com/dashboard
-- https://projecteuler.net/archives
-- https://www.hackerearth.com/challenges/
-- https://www.dailycodingproblem.com
-- https://www.urionlinejudge.com.br/judge/en/login
+* ### [Codeforces](http://codeforces.com/contests)
+* ### [Codechef](https://www.codechef.com)
+* ### [Leetcode](https://leetcode.com)
+* ### [AtCoder](https://atcoder.jp/contests/)
+* ### [TopCoder](https://www.topcoder.com)
+* ### [SPOJ](https://www.spoj.com/users/lebron/)
+* ### [Hackerrank](https://www.hackerrank.com/dashboard)
+* ### [ProjectEuler](https://projecteuler.net/archives)
+* ### [HackerEarth](https://www.hackerearth.com/challenges/)
+* ### [DailyCodingProblem](https://www.dailycodingproblem.com)
+* ### [UrionlineJudge](https://www.urionlinejudge.com.br/judge/en/login)
 
 
 ## Problem Solving Books: 
@@ -55,6 +55,10 @@
 - https://www.youtube.com/channel/UC9fDC_eBh9e_bogw87DbGKQ
 
 # Interview Prep
-- https://www.pramp.com/#/
+* ### [Pramp](https://www.pramp.com/#/)
 - https://interviewing.io
 - https://docs.google.com/document/d/1wUCqhVHydWiDk6FJdFLSMpgigNrGcs4OFZg0Wa7JGEw/
+
+# Online Coding Hackathons and Competitions
+* ### [Google Kickstart](https://codingcompetitions.withgoogle.com/kickstart)
+> Kick Start is a global online coding competition, consisting of three-hour rounds of a variety of algorithmic challenges designed by Google engineers. Participants can compete in one or all online rounds held throughout the year, and will have the opportunity to develop and grow their programming abilities while getting a glimpse into the technical skills needed for a career at Google (top participants may be invited to interview at Google).
