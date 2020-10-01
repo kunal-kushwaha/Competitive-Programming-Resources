@@ -41,6 +41,7 @@
 
 ## Problem Solving Books: 
 - A Path to Combinatorics for Undergraduates
+- Introduction to Algorithms -  Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein (CLRS) - 3rd Edition
 - Competitive Programmers Handbook - Antti Laaksonen - July 2018
 - Competitive Programming 3 - The New Lower Bound of Programming Contests
 - Cracking the Coding Interview 189 Programming Questions and Solutions
