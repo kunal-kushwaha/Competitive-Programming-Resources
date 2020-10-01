@@ -19,6 +19,9 @@
 - https://petr-mitrichev.blogspot.com
 - https://www.hackerearth.com/blog/developers/7-steps-to-improve-your-data-structure-and-algorithm-skills/
 - https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed
+- https://www.quora.com/q/techiedelight/500-Data-Structures-and-Algorithms-interview-questions-and-their-solutions
+- https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/
+- https://www.bigocheatsheet.com/
 
 ## Platforms to Practice: 
 * ### [Codeforces](http://codeforces.com/contests)
@@ -45,6 +48,7 @@
 - How to Solve It - A New Aspect of Mathematical Method
 - Problem Books in Mathematics -  by K. Bencsath P.R. Halmos
 - The Art and Craft of Problem Solving, 3rd Edition
+- Cracking the Coding Interview: 150 Programming Questions and Solutions
 
 ## Video Tutorials
 - https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg
