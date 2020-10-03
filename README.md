@@ -53,6 +53,7 @@
 ## Video Tutorials
 - https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg
 - https://www.youtube.com/channel/UCKuDLsO0Wwef53qdHPjbU2Q
+- https://www.youtube.com/channel/UC7rNzgC2fEBVpb-q_acpsmw
 - https://www.youtube.com/channel/UCfv8cds8AfIM3UZtAWOz6Gg
 - https://www.youtube.com/channel/UC1fLEeYICmo3O9cUsqIi7HA
 - https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw
