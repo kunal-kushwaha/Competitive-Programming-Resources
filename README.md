@@ -19,19 +19,22 @@
 - https://petr-mitrichev.blogspot.com
 - https://www.hackerearth.com/blog/developers/7-steps-to-improve-your-data-structure-and-algorithm-skills/
 - https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed
+- https://www.quora.com/q/techiedelight/500-Data-Structures-and-Algorithms-interview-questions-and-their-solutions
+- https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/
+- https://www.bigocheatsheet.com/
 
 ## Platforms to Practice: 
-- http://codeforces.com/contests
-- https://www.codechef.com
-- https://leetcode.com
-- https://atcoder.jp/contests/
-- https://www.topcoder.com
-- https://www.spoj.com/users/lebron/
-- https://www.hackerrank.com/dashboard
-- https://projecteuler.net/archives
-- https://www.hackerearth.com/challenges/
-- https://www.dailycodingproblem.com
-- https://www.urionlinejudge.com.br/judge/en/login
+* ### [Codeforces](http://codeforces.com/contests)
+* ### [Codechef](https://www.codechef.com)
+* ### [Leetcode](https://leetcode.com)
+* ### [AtCoder](https://atcoder.jp/contests/)
+* ### [TopCoder](https://www.topcoder.com)
+* ### [SPOJ](https://www.spoj.com/users/lebron/)
+* ### [Hackerrank](https://www.hackerrank.com/dashboard)
+* ### [ProjectEuler](https://projecteuler.net/archives)
+* ### [HackerEarth](https://www.hackerearth.com/challenges/)
+* ### [DailyCodingProblem](https://www.dailycodingproblem.com)
+* ### [UrionlineJudge](https://www.urionlinejudge.com.br/judge/en/login)
 
 
 ## Problem Solving Books: 
@@ -45,16 +48,31 @@
 - How to Solve It - A New Aspect of Mathematical Method
 - Problem Books in Mathematics -  by K. Bencsath P.R. Halmos
 - The Art and Craft of Problem Solving, 3rd Edition
+- Cracking the Coding Interview: 150 Programming Questions and Solutions
 
 ## Video Tutorials
 - https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg
 - https://www.youtube.com/channel/UCKuDLsO0Wwef53qdHPjbU2Q
+- https://www.youtube.com/channel/UC7rNzgC2fEBVpb-q_acpsmw
 - https://www.youtube.com/channel/UCfv8cds8AfIM3UZtAWOz6Gg
 - https://www.youtube.com/channel/UC1fLEeYICmo3O9cUsqIi7HA
 - https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw
 - https://www.youtube.com/channel/UC9fDC_eBh9e_bogw87DbGKQ
 
 # Interview Prep
-- https://www.pramp.com/#/
+* ### [Pramp](https://www.pramp.com/#/)
 - https://interviewing.io
 - https://docs.google.com/document/d/1wUCqhVHydWiDk6FJdFLSMpgigNrGcs4OFZg0Wa7JGEw/
+
+# Online Coding Hackathons and Competitions
+* ### [Google Kickstart](https://codingcompetitions.withgoogle.com/kickstart)
+> Kick Start is a global online coding competition, consisting of three-hour rounds of a variety of algorithmic challenges designed by Google engineers. Participants can compete in one or all online rounds held throughout the year, and will have the opportunity to develop and grow their programming abilities while getting a glimpse into the technical skills needed for a career at Google (top participants may be invited to interview at Google).
+
+* ### [Google Code Jam](https://codingcompetitions.withgoogle.com/codejam)
+> Google’s longest running global coding competition, Code Jam, calls on programmers around the world to solve challenging, algorithmic puzzles against the clock. Contestants advance through four online-hosted rounds to compete at the annual Code Jam World Finals that is held at a different international Google office each year. Each round brings new challenges, and in the end 25 contestants will have the ultimate chance to put their skills to the test, vying for cash prizes and the coveted championship title at the World Finals.
+
+* ### [Google Hash Code](https://codingcompetitions.withgoogle.com/hashcode/)
+> Google’s team-based programming competition, Hash Code, allows you to share your skills and connect with other coders as you work together to solve a problem modeled off a real Google engineering challenge! In small teams of two to four, coders all over the world will tackle the first problem through an Online Qualification Round. Though this round is hosted online, teams can come together to compete side-by-side in locally coordinated Hash Code hubs. The top teams from this round are invited to join us at an international Google office for our annual Hash Code Final Round.
+
+* ### [Facebook Hacker Cup](https://www.facebook.com/codingcompetitions/hacker-cup/)
+> Hacker Cup is Facebook's annual open programming competition. Open to participants around the world, we invite you to apply problem-solving and algorithmic coding skills to advance through each year’s online rounds, win prizes, and have a chance to make it to the global finals and win the grand prize.
