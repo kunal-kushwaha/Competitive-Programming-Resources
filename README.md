@@ -23,6 +23,11 @@
 - https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/
 - https://www.bigocheatsheet.com/
 
+## System Design
+- https://www.youtube.com/watch?v=xpDnVSmNFX0&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX
+- https://github.com/donnemartin/system-design-primer
+- https://www.youtube.com/watch?v=VJpfO6KdyWE
+
 ## Platforms to Practice: 
 * ### [Codeforces](http://codeforces.com/contests)
 * ### [Codechef](https://www.codechef.com)
