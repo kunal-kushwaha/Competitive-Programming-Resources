@@ -8,7 +8,7 @@
 - https://twchen.gitbook.io/leetcode/
 - https://www.pramp.com/#/
 - https://docs.google.com/document/d/1wUCqhVHydWiDk6FJdFLSMpgigNrGcs4OFZg0Wa7JGEw/edit
-- https://www.hackerearth.com/practice/?utm_medium=referral&utm_campaign=Algodsblog&utm_source=slack
+- https://www.hackerearth.com/practice/
 - https://interviewing.io
 - https://www.quora.com/What-are-the-best-ways-to-master-dynamic-programming/answer/Sameer-Gulati-3
 - https://www.quora.com/How-do-I-get-good-at-math-for-competitive-programming/answer/Sameer-Gulati-3
@@ -66,7 +66,7 @@
 
 # Interview Prep
 * ### [Pramp](https://www.pramp.com/#/)
-- https://interviewing.io
+* ### [interviewing.io](https://interviewing.io)
 - https://docs.google.com/document/d/1wUCqhVHydWiDk6FJdFLSMpgigNrGcs4OFZg0Wa7JGEw/
 
 # Online Coding Hackathons and Competitions
