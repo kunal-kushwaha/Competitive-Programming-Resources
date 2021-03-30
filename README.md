@@ -40,6 +40,7 @@
 * ### [HackerEarth](https://www.hackerearth.com/challenges/)
 * ### [DailyCodingProblem](https://www.dailycodingproblem.com)
 * ### [UrionlineJudge](https://www.urionlinejudge.com.br/judge/en/login)
+* ### [Binarysearch](https://binarysearch.com/)
 
 
 ## Problem Solving Books: 
