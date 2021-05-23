@@ -63,20 +63,25 @@
 - [Gaurav Sen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
 - [Rachit Jain](https://www.youtube.com/channel/UC9fDC_eBh9e_bogw87DbGKQ)
 
-# Interview Prep
+## Interview Prep
 - [Pramp](https://www.pramp.com/#/)
 - [interviewing.io](https://interviewing.io)
 - [12 Week Programme - Leetcode](https://docs.google.com/document/d/1wUCqhVHydWiDk6FJdFLSMpgigNrGcs4OFZg0Wa7JGEw/)
 
-# Online Coding Hackathons and Competitions
-* ### [Google Kickstart](https://codingcompetitions.withgoogle.com/kickstart)
+## Online Coding Hackathons and Competitions
+- [Google Kickstart](https://codingcompetitions.withgoogle.com/kickstart)
 > Kick Start is a global online coding competition, consisting of three-hour rounds of a variety of algorithmic challenges designed by Google engineers. Participants can compete in one or all online rounds held throughout the year, and will have the opportunity to develop and grow their programming abilities while getting a glimpse into the technical skills needed for a career at Google (top participants may be invited to interview at Google).
 
-* ### [Google Code Jam](https://codingcompetitions.withgoogle.com/codejam)
+- [Google Code Jam](https://codingcompetitions.withgoogle.com/codejam)
 > Google’s longest running global coding competition, Code Jam, calls on programmers around the world to solve challenging, algorithmic puzzles against the clock. Contestants advance through four online-hosted rounds to compete at the annual Code Jam World Finals that is held at a different international Google office each year. Each round brings new challenges, and in the end 25 contestants will have the ultimate chance to put their skills to the test, vying for cash prizes and the coveted championship title at the World Finals.
 
-* ### [Google Hash Code](https://codingcompetitions.withgoogle.com/hashcode/)
+- [Google Hash Code](https://codingcompetitions.withgoogle.com/hashcode/)
 > Google’s team-based programming competition, Hash Code, allows you to share your skills and connect with other coders as you work together to solve a problem modeled off a real Google engineering challenge! In small teams of two to four, coders all over the world will tackle the first problem through an Online Qualification Round. Though this round is hosted online, teams can come together to compete side-by-side in locally coordinated Hash Code hubs. The top teams from this round are invited to join us at an international Google office for our annual Hash Code Final Round.
 
-* ### [Facebook Hacker Cup](https://www.facebook.com/codingcompetitions/hacker-cup/)
+- [Facebook Hacker Cup](https://www.facebook.com/codingcompetitions/hacker-cup/)
 > Hacker Cup is Facebook's annual open programming competition. Open to participants around the world, we invite you to apply problem-solving and algorithmic coding skills to advance through each year’s online rounds, win prizes, and have a chance to make it to the global finals and win the grand prize.
+
+## Thanks to all the contributors ❤️
+<a href = "https://github.com/kunal-kushwaha/Competitive-Programming-Resources/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo=kunal-kushwaha/Competitive-Programming-Resources"/>
+</a>
