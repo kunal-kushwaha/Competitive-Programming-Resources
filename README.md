@@ -24,22 +24,22 @@
 - https://www.bigocheatsheet.com/
 
 ## System Design
-- https://www.youtube.com/watch?v=xpDnVSmNFX0&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX
-- https://github.com/donnemartin/system-design-primer
-- https://www.youtube.com/watch?v=VJpfO6KdyWE
+- [Gaurav Sen](https://www.youtube.com/watch?v=xpDnVSmNFX0&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
+- [system-design-primer](https://github.com/donnemartin/system-design-primer)
+- [Mock Interview](https://www.youtube.com/watch?v=VJpfO6KdyWE)
 
 ## Platforms to Practice: 
-* ### [Codeforces](http://codeforces.com/contests)
-* ### [Codechef](https://www.codechef.com)
-* ### [Leetcode](https://leetcode.com)
-* ### [AtCoder](https://atcoder.jp/contests/)
-* ### [TopCoder](https://www.topcoder.com)
-* ### [SPOJ](https://www.spoj.com/users/lebron/)
-* ### [Hackerrank](https://www.hackerrank.com/dashboard)
-* ### [ProjectEuler](https://projecteuler.net/archives)
-* ### [HackerEarth](https://www.hackerearth.com/challenges/)
-* ### [DailyCodingProblem](https://www.dailycodingproblem.com)
-* ### [UrionlineJudge](https://www.urionlinejudge.com.br/judge/en/login)
+- [Codeforces](http://codeforces.com/contests)
+- [Codechef](https://www.codechef.com)
+- [Leetcode](https://leetcode.com)
+- [AtCoder](https://atcoder.jp/contests/)
+- [TopCoder](https://www.topcoder.com)
+- [SPOJ](https://www.spoj.com/users/lebron/)
+- [Hackerrank](https://www.hackerrank.com/dashboard)
+- [ProjectEuler](https://projecteuler.net/archives)
+- [HackerEarth](https://www.hackerearth.com/challenges/)
+- [DailyCodingProblem](https://www.dailycodingproblem.com)
+- [UrionlineJudge](https://www.urionlinejudge.com.br/judge/en/login)
 
 
 ## Problem Solving Books: 
@@ -56,18 +56,17 @@
 - Cracking the Coding Interview: 150 Programming Questions and Solutions
 
 ## Video Tutorials
-- https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg
-- https://www.youtube.com/channel/UCKuDLsO0Wwef53qdHPjbU2Q
-- https://www.youtube.com/channel/UC7rNzgC2fEBVpb-q_acpsmw
-- https://www.youtube.com/channel/UCfv8cds8AfIM3UZtAWOz6Gg
-- https://www.youtube.com/channel/UC1fLEeYICmo3O9cUsqIi7HA
-- https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw
-- https://www.youtube.com/channel/UC9fDC_eBh9e_bogw87DbGKQ
+- [Code for Cause](https://www.youtube.com/channel/UCfv8cds8AfIM3UZtAWOz6Gg)
+- [Errichto](https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg)
+- [William Lin](https://www.youtube.com/channel/UCKuDLsO0Wwef53qdHPjbU2Q)
+- [Nick White](https://www.youtube.com/channel/UC1fLEeYICmo3O9cUsqIi7HA)
+- [Gaurav Sen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
+- [Rachit Jain](https://www.youtube.com/channel/UC9fDC_eBh9e_bogw87DbGKQ)
 
 # Interview Prep
-* ### [Pramp](https://www.pramp.com/#/)
-* ### [interviewing.io](https://interviewing.io)
-- https://docs.google.com/document/d/1wUCqhVHydWiDk6FJdFLSMpgigNrGcs4OFZg0Wa7JGEw/
+- [Pramp](https://www.pramp.com/#/)
+- [interviewing.io](https://interviewing.io)
+- [12 Week Programme - Leetcode](https://docs.google.com/document/d/1wUCqhVHydWiDk6FJdFLSMpgigNrGcs4OFZg0Wa7JGEw/)
 
 # Online Coding Hackathons and Competitions
 * ### [Google Kickstart](https://codingcompetitions.withgoogle.com/kickstart)
