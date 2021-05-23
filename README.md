@@ -1,4 +1,4 @@
-# Please find resources listed for CP,  Interview Prep, System Design,  Problem Solving.
+# Please find resources listed for Competitive Programming,  Interview Prep, System Design, & Problem Solving.
 
 ## Reachout to me if you have any questions: [@kunalstwt](https://twitter.com/kunalstwt )
 
