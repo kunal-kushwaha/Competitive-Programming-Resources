@@ -25,6 +25,7 @@
 - [Gaurav Sen](https://www.youtube.com/watch?v=xpDnVSmNFX0&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
 - [system-design-primer](https://github.com/donnemartin/system-design-primer)
 - [Mock Interview](https://www.youtube.com/watch?v=VJpfO6KdyWE)
+- [Machine Coding Round Practice](https://workat.tech/practice)
 
 ## Platforms to Practice: 
 - [Codeforces](http://codeforces.com/contests)
