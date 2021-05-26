@@ -62,11 +62,13 @@
 - [Nick White](https://www.youtube.com/channel/UC1fLEeYICmo3O9cUsqIi7HA)
 - [Gaurav Sen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
 - [Rachit Jain](https://www.youtube.com/channel/UC9fDC_eBh9e_bogw87DbGKQ)
+- [take U forward](https://www.youtube.com/channel/UCJskGeByzRRSvmOyZOz61ig)
 
 ## Interview Prep
 - [Pramp](https://www.pramp.com/#/)
 - [interviewing.io](https://interviewing.io)
 - [12 Week Programme - Leetcode](https://docs.google.com/document/d/1wUCqhVHydWiDk6FJdFLSMpgigNrGcs4OFZg0Wa7JGEw/)
+- [Guide For Interview Prep](https://placementbot20.github.io/BOT-PAGES/CS-SDE-DS-ML-L1/CS_SDE-DS-ML_L1.html)
 
 ## Online Coding Hackathons and Competitions
 - [Google Kickstart](https://codingcompetitions.withgoogle.com/kickstart)
