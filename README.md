@@ -7,6 +7,7 @@
 - [CP-Algorithms](https://cp-algorithms.com)
 - [DP Questions](https://atcoder.jp/contests/dp/tasks)
 - [Google Interview Questions](https://leetcode.com/discuss/interview-question/352460/Google-Online-Assessment-Questions)
+- [Microsoft Interview Questions](https://www.geeksforgeeks.org/microsofts-asked-interview-questions/)
 - [LeetCode Solutions](https://twchen.gitbook.io/leetcode/)
 - [HackerEarth](https://www.hackerearth.com/practice/)
 - [DP Roadmap](https://www.quora.com/What-are-the-best-ways-to-master-dynamic-programming/answer/Sameer-Gulati-3)
