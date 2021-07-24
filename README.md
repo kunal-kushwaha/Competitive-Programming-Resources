@@ -56,7 +56,7 @@
 - Cracking the Coding Interview: 150 Programming Questions and Solutions
 
 ## Video Tutorials
-- [Code for Cause](https://www.youtube.com/channel/UCfv8cds8AfIM3UZtAWOz6Gg)
+- [Kunal Kushwaha](https://www.youtube.com/KunalKushwaha)
 - [Errichto](https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg)
 - [William Lin](https://www.youtube.com/channel/UCKuDLsO0Wwef53qdHPjbU2Q)
 - [Nick White](https://www.youtube.com/channel/UC1fLEeYICmo3O9cUsqIi7HA)
