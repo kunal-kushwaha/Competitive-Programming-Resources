@@ -81,6 +81,9 @@
 - [Facebook Hacker Cup](https://www.facebook.com/codingcompetitions/hacker-cup/)
 > Hacker Cup is Facebook's annual open programming competition. Open to participants around the world, we invite you to apply problem-solving and algorithmic coding skills to advance through each year’s online rounds, win prizes, and have a chance to make it to the global finals and win the grand prize.
 
+- [ICPC](https://icpc.global/)
+> The ICPC formerly known as ACM-ICPC (Association for Computing Machinery - International Collegiate Programming Contest) is considered as the "Olympics of Programming Competitions". It is quite simply, the oldest, largest, and most prestigious programming contest in the world. This contest is for students only. Students from same college may form team of 3(reqiured) along with 1 reserve(optional) and with a coach from the faculty member. Contestants advance through two online-hosted rounds to compete at the annual ICPC Finals that is held at a different international sites each year. Further details are [here](http://icpc.baylor.edu/download/regionals/rules/EligibilityDecisionTree-13.pdf).
+
 ## Thanks to all the contributors ❤️
 <a href = "https://github.com/kunal-kushwaha/Competitive-Programming-Resources/graphs/contributors">
   <img src = "https://contrib.rocks/image?repo=kunal-kushwaha/Competitive-Programming-Resources"/>
