@@ -34,13 +34,15 @@
 - [AtCoder](https://atcoder.jp/contests/)
 - [TopCoder](https://www.topcoder.com)
 - [SPOJ](https://www.spoj.com/users/lebron/)
-- [Hackerrank](https://www.hackerrank.com/dashboard)
+- [HackerRank](https://www.hackerrank.com/dashboard)
 - [ProjectEuler](https://projecteuler.net/archives)
 - [HackerEarth](https://www.hackerearth.com/challenges/)
 - [DailyCodingProblem](https://www.dailycodingproblem.com)
 - [UrionlineJudge](https://www.urionlinejudge.com.br/judge/en/login)
 - [Workattech DSA Interview Practice](https://workat.tech/problem-solving/practice?tags=dsa)
 - [Binarysearch](https://binarysearch.com/)
+- [GeeksForGeeks](https://practice.geeksforgeeks.org/home/)
+
 
 ## Problem Solving Books: 
 - A Path to Combinatorics for Undergraduates
@@ -67,6 +69,7 @@
 - [Pramp](https://www.pramp.com/#/)
 - [interviewing.io](https://interviewing.io)
 - [12 Week Programme - Leetcode](https://docs.google.com/document/d/1wUCqhVHydWiDk6FJdFLSMpgigNrGcs4OFZg0Wa7JGEw/)
+- [InterviewBit](https://www.interviewbit.com/practice/)
 
 ## Online Coding Hackathons and Competitions
 - [Google Kickstart](https://codingcompetitions.withgoogle.com/kickstart)
