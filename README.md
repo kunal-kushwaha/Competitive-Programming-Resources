@@ -26,6 +26,7 @@
 - [system-design-primer](https://github.com/donnemartin/system-design-primer)
 - [Mock Interview](https://www.youtube.com/watch?v=VJpfO6KdyWE)
 - [Machine Coding Round Practice](https://workat.tech/practice)
+- [Engineering Blogs/Articles/Videos for System Design](https://workat.tech/system-design/article/best-engineering-blogs-articles-videos-system-design-tvwa05b8bzzr)
 
 ## Platforms to Practice: 
 - [Codeforces](http://codeforces.com/contests)
