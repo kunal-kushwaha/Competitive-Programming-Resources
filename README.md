@@ -1,6 +1,28 @@
 # Resources for Competitive Programming, Interview Prep, System Design, & Problem Solving.
 
-## 👉 Reachout to me if you have any questions: [@kunalstwt](https://twitter.com/kunalstwt )
+## Connect with me
+  <a href="https://twitter.com/kunalstwt">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
+  </a>&ensp;
+  <a href="https://www.linkedin.com/in/kunal-kushwaha/">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+  </a>&ensp;
+  <a href="https://www.instagram.com/kunalsig/">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
+  </a>&ensp;
+  <a href="https://discord.io/commclassroom">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" />
+  </a>&ensp;
+    <a href="https://t.me/commclassroom">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" />
+  </a> 
+  
+## Video Tutorials
+- [Kunal Kushwaha](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
+- [Errichto](https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg)
+- [William Lin](https://www.youtube.com/channel/UCKuDLsO0Wwef53qdHPjbU2Q)
+- [Nick White](https://www.youtube.com/channel/UC1fLEeYICmo3O9cUsqIi7HA)
+- [Gaurav Sen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
 
 ## Problems & Tips
 - [CSES](https://cses.fi/problemset/)
@@ -55,13 +77,6 @@
 - Problem Books in Mathematics -  by K. Bencsath P.R. Halmos
 - The Art and Craft of Problem Solving, 3rd Edition
 - Cracking the Coding Interview: 150 Programming Questions and Solutions
-
-## Video Tutorials
-- [Kunal Kushwaha](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
-- [Errichto](https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg)
-- [William Lin](https://www.youtube.com/channel/UCKuDLsO0Wwef53qdHPjbU2Q)
-- [Nick White](https://www.youtube.com/channel/UC1fLEeYICmo3O9cUsqIi7HA)
-- [Gaurav Sen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
 
 ## Interview Prep
 - [Pramp](https://www.pramp.com/#/)
