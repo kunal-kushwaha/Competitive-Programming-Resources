@@ -1,4 +1,4 @@
-# Resources for Competitive Programming, Interview Prep, System Design, & Problem Solving.
+# Resources for Competitive Programming, Interview Prep, System Design, & Problem Solving
 
 ## Connect with me
   <a href="https://twitter.com/kunalstwt">
