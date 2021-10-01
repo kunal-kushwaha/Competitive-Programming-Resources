@@ -65,6 +65,7 @@
 - [UrionlineJudge](https://www.urionlinejudge.com.br/judge/en/login)
 - [Workattech DSA Interview Practice](https://workat.tech/problem-solving/practice?tags=dsa)
 - [Binarysearch](https://binarysearch.com/)
+- [E-Olymp](https://www.e-olymp.com/en/)
 
 ## Problem Solving Books: 
 - A Path to Combinatorics for Undergraduates
@@ -75,6 +76,7 @@
 - Fifty Challenging Problems in Probability. - Fredrick Mosteller
 - Guide to Competitive Programming - Learning and Improving Algorithms ThroughContests
 - How to Solve It - A New Aspect of Mathematical Method
+- Introduction to Algorithm, 3rd Edition
 - Problem Books in Mathematics -  by K. Bencsath P.R. Halmos
 - The Art and Craft of Problem Solving, 3rd Edition
 - Cracking the Coding Interview: 150 Programming Questions and Solutions
