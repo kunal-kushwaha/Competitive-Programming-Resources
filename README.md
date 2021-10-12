@@ -25,6 +25,10 @@
 - [Gaurav Sen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
 - [mycodeschool](https://www.youtube.com/user/mycodeschool/featured)
 
+## Documentations
+- [GFG](https://www.geeksforgeeks.org/competitive-programming-a-complete-guide/)
+- [CodeForces](https://codeforces.com/blog/entry/23054#list-of-lists)
+
 ## Problems & Tips
 - [CSES](https://cses.fi/problemset/)
 - [CP-Algorithms](https://cp-algorithms.com)
