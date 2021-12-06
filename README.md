@@ -1,20 +1,17 @@
 # Resources for Competitive Programming, Interview Prep, System Design, & Problem Solving
 
 ## Connect with me
-  <a href="https://twitter.com/kunalstwt">
+  <a href="https://twitter.com/pandeyatul12_?t=zkI7Y5auRg6wMjEG9gbMZg&s=09">
     <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
   </a>&ensp;
-  <a href="https://www.linkedin.com/in/kunal-kushwaha/">
+  <a href="https://linkedin.com/in/atul kumar pandey">
     <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>&ensp;
-  <a href="https://www.instagram.com/kunalsig/">
+  <a href="https://instagram.com/pandeyatul12">
     <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
   </a>&ensp;
-  <a href="https://discord.io/commclassroom">
+  <a href="https://discord.gg/GnpgSMpHYm">
     <img width="30px" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" />
-  </a>&ensp;
-    <a href="https://t.me/commclassroom">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" />
   </a> 
   
 ## Video Tutorials
@@ -101,6 +98,6 @@
 > The ICPC formerly known as ACM-ICPC (Association for Computing Machinery - International Collegiate Programming Contest) is considered as the "Olympics of Programming Competitions". It is quite simply, the oldest, largest, and most prestigious programming contest in the world. This contest is for students only. Students from same college may form team of 3(reqiured) along with 1 reserve(optional) and with a coach from the faculty member. Contestants advance through two online-hosted rounds to compete at the annual ICPC Finals that is held at a different international sites each year. Further details are [here](http://icpc.baylor.edu/download/regionals/rules/EligibilityDecisionTree-13.pdf).
 
 ## Thanks to all the contributors ❤️
-<a href = "https://github.com/kunal-kushwaha/Competitive-Programming-Resources/graphs/contributors">
+<a href = "https://github.com/pandeyatul12/Competitive-Programming-Resources/graphs/contributors">
   <img src = "https://contrib.rocks/image?repo=kunal-kushwaha/Competitive-Programming-Resources"/>
 </a>
