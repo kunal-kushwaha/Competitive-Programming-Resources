@@ -23,7 +23,6 @@
 - [William Lin](https://www.youtube.com/channel/UCKuDLsO0Wwef53qdHPjbU2Q)
 - [Nick White](https://www.youtube.com/channel/UC1fLEeYICmo3O9cUsqIi7HA)
 - [Gaurav Sen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
-- [mycodeschool](https://www.youtube.com/user/mycodeschool/featured)
 
 ## Problems & Tips
 - [CSES](https://cses.fi/problemset/)
