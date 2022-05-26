@@ -1,3 +1,8 @@
+#these are some of the changes that i am making right now in this file just for practice purpose.
+#this community created by kunal kushwaha is amazing
+
+
+
 # Resources for Competitive Programming, Interview Prep, System Design, & Problem Solving
 
 ## Connect with me
