@@ -64,6 +64,8 @@
 - [UrionlineJudge](https://www.urionlinejudge.com.br/judge/en/login)
 - [Workattech DSA Interview Practice](https://workat.tech/problem-solving/practice?tags=dsa)
 - [Binarysearch](https://binarysearch.com/)
+- [Geeks for Geeks Practice](https://practice.geeksforgeeks.org/home/)
+- [Geeks for Geeks Problem of the Day](https://practice.geeksforgeeks.org/problem-of-the-day)
 
 ## Problem Solving Books: 
 - A Path to Combinatorics for Undergraduates
