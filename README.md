@@ -1,21 +1,4 @@
 # Resources for Competitive Programming, Interview Prep, System Design, & Problem Solving
-
-## Connect with me
-  <a href="https://twitter.com/kunalstwt">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
-  </a>&ensp;
-  <a href="https://www.linkedin.com/in/kunal-kushwaha/">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-  </a>&ensp;
-  <a href="https://www.instagram.com/kunalsig/">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
-  </a>&ensp;
-  <a href="https://discord.io/commclassroom">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" />
-  </a>&ensp;
-    <a href="https://t.me/commclassroom">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" />
-  </a> 
   
 ## Video Tutorials
 - [Kunal Kushwaha's Complete DSA Bootcamp](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
