@@ -24,6 +24,7 @@
 - [Coding Interview Patterns](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
 - [Interview Questions](https://www.quora.com/q/techiedelight/500-Data-Structures-and-Algorithms-interview-questions-and-their-solutions)
 - [Big-O Cheatsheet](https://www.bigocheatsheet.com/)
+- [Detailed guide to CP ](https://docs.google.com/spreadsheets/d/1iJZWP2nS_OB3kCTjq8L6TrJJ4o-5lhxDOyTaocSYc-k/edit#gid=84654839)
 
 ## System Design
 - [Gaurav Sen](https://www.youtube.com/watch?v=xpDnVSmNFX0&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
@@ -46,6 +47,7 @@
 - [UrionlineJudge](https://www.urionlinejudge.com.br/judge/en/login)
 - [Workattech DSA Interview Practice](https://workat.tech/problem-solving/practice?tags=dsa)
 - [Binarysearch](https://binarysearch.com/)
+-[Coding Ninja's Code Studio](https://www.codingninjas.com/codestudio/problem-lists)
 
 ## Problem Solving Books: 
 - A Path to Combinatorics for Undergraduates
